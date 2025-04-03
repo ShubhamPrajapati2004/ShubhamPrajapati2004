@@ -1,9 +1,9 @@
-- 👋 NAMASTE, I’m SHUBHAM PRAJAPATI.
-- 👀 I’m interested in Data Analyst.
--  I have advanced Excel and MySQL skill.
-- 🌱 I’m currently learning a programming language that's named Python and SQL. 
-- 💞️ I’m looking to collaborate on an Open Source project.
-- 📫 Linkedin.com/in/shubhamprjapti2004
+NAMASTE, I’m SHUBHAM PRAJAPATI.
+I’m interested in Data Analyst.
+I have advanced Excel and MySQL skill.
+I’m currently learning a programming language that's named Python and SQL. 
+I’m looking to collaborate on an Open Source project.
+linkedin.com/in/shub2004
 
 
 
